@@ -25,7 +25,7 @@
                                 <h5 class="card-title">Ikuti Acara</h5>
                                 <h6 class="card-subtitle mb-2 text-muted">Free Sertifikat</h6>
                                 <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                <a href="<?= base_url('jadwal/join') ?> " class="card-link">JOIN</a>
+                                <a href="<?= base_url('jadwal/join') ?> " class="button alt">IKUTI</a>
                             </div>
                             </div>
 

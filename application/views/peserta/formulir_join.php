@@ -29,11 +29,11 @@
 
 
             <div class="form-group">
-                <input type="submit"  class="btn btn-info" value="DAFTAR">
+                <button type="submit"  class="btn btn-danger btn-block"> DAFTAR </button>
             </div>
 
             <div class="form-group text-right">
-                <button type="button" class="btn btn-danger" >Daftar Sebagai Pegawai</button>
+                   <a href="<?= base_url('jadwal/detail') ?> " class="button alt">Atau Sebagai Pegawai</a>
             </div>
 
 
