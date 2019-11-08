@@ -15,9 +15,4 @@ class Home extends CI_Controller {
 		$this->load->view('peserta/include/header');
 		$this->load->view('peserta/include/footer');
 	}
-
-	public function kegiatan()
-	{
-
-	}
 }
